@@ -17,7 +17,7 @@
 ![Screenshot 2022-05-04 111856](https://user-images.githubusercontent.com/99696816/166801298-3f205edd-d9f4-4f0f-abbc-3a1cf8a65bf5.png)
 
 ## Summary
-Discrepancies
+- Discrepancies
 The table provides a great visual representation of the ufo data, however when inputting the state "CA" for California the filter results would be zero. However, if inputting in lower case, the results would provide numerous results.
 
 # Recommendations
