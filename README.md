@@ -18,7 +18,7 @@
 
 ## Summary
 - Discrepancies
-The table provides a great visual representation of the ufo data, however when inputting the state "CA" for California the filter results would be zero. However, if inputting in lower case, the results would provide numerous results.
+-The table provides a great visual representation of the ufo data, however when inputting the state "CA" for California the filter results would be zero. However, if inputting in lower case, the results would provide numerous results.
 
 # Recommendations
 - In the search filter prompt there are several "shape" results that the user can input. An alternative suggestion would be to have a dropdown option for "shape" due to the broad range of descriptions.
