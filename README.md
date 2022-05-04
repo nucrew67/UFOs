@@ -12,6 +12,8 @@
 - UFO descriptive data
 - witness comments
 - webpage
+"C:\Users\rfamo\data_analytics\module_11\UFOs\static\images\Screenshot 2022-05-04 111701.png"
+"C:\Users\rfamo\data_analytics\module_11\UFOs\static\images\Screenshot 2022-05-04 111856.png"
 
 ## Summary
 Drawback
